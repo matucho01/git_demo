@@ -3,4 +3,4 @@
 clear
 echo "listing files"
 ls -a
-touch file4.txt
+touch file1.txt file2.txt
