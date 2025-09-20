@@ -2,5 +2,5 @@
 
 clear
 echo "listing files"
-ls -l
-touch file1.txt
+ls -ltrh
+touch file1.txt file2.txt
